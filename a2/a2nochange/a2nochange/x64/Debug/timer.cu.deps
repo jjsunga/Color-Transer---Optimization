@@ -1,0 +1,562 @@
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\cuda_runtime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_config.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\crtdefs.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sal.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ConcurrencySal.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vadefs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\limits.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stddef.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\library_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_device_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\common_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_memory.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\errno.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_string.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wtime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\math_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\yvals.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xkeycheck.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\crtdefs.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\use_ansi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtgmath.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtr1common
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\math_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\math_functions_dbl_ptx3.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\math_functions_dbl_ptx3.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_double_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_double_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_20_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_35_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_60_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_20_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_30_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_35_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\sm_61_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_fetch_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\device_launch_parameters.h
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\vector_types.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\iostream
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\istream
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ostream
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ios
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocnum
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\climits
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdio
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_stdio_config.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\streambuf
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xiosbase
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstring
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdexcept
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstddef
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstddef
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\initializer_list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\malloc.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_exception.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\eh.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_terminate.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xmemory0
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdint
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\limits
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ymath.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cfloat
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\float.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cwchar
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\sys/types.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\new
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\utility
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\iosfwd
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\crtdbg.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new_debug.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xatomic0.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\intrin.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\setjmp.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\immintrin.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\wmmintrin.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\nmmintrin.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\smmintrin.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\tmmintrin.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\pmmintrin.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\emmintrin.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xmmintrin.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\mmintrin.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ammintrin.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\typeinfo
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_typeinfo.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\locale.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xfacet
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\system_error
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cerrno
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\share.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\chrono
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ratio
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr/xtimec.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr/xthrcommon.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\cuda_runtime.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\device_launch_parameters.h
+E:\opencv\build\include\opencv2\opencv.hpp
+E:\opencv\build\include\opencv2/opencv_modules.hpp
+E:\opencv\build\include\opencv2/core.hpp
+E:\opencv\build\include\opencv2/core/cvdef.h
+E:\opencv\build\include\opencv2/core/hal/interface.h
+E:\opencv\build\include\opencv2/core/version.hpp
+E:\opencv\build\include\opencv2/core/base.hpp
+E:\opencv\build\include\opencv2/opencv_modules.hpp
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\algorithm
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xmemory
+E:\opencv\build\include\opencv2/core/cvstd.hpp
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cctype
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string
+E:\opencv\build\include\opencv2/core/ptr.inl.hpp
+E:\opencv\build\include\opencv2/core/neon_utils.hpp
+E:\opencv\build\include\opencv2/core/traits.hpp
+E:\opencv\build\include\opencv2/core/matx.hpp
+E:\opencv\build\include\opencv2/core/saturate.hpp
+E:\opencv\build\include\opencv2/core/fast_math.hpp
+E:\opencv\build\include\opencv2/core/types.hpp
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vector
+E:\opencv\build\include\opencv2/core/mat.hpp
+E:\opencv\build\include\opencv2/core/bufferpool.hpp
+E:\opencv\build\include\opencv2/core/mat.inl.hpp
+E:\opencv\build\include\opencv2/core/persistence.hpp
+E:\opencv\build\include\opencv2/core/operations.hpp
+E:\opencv\build\include\opencv2/core/cvstd.inl.hpp
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\complex
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ccomplex
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sstream
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xcomplex
+E:\opencv\build\include\opencv2/core/utility.hpp
+E:\opencv\build\include\opencv2/core.hpp
+E:\opencv\build\include\opencv2/core/core_c.h
+E:\opencv\build\include\opencv2/core/types_c.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
+E:\opencv\build\include\opencv2/core.hpp
+E:\opencv\build\include\opencv2/core/utility.hpp
+E:\opencv\build\include\opencv2/core/optim.hpp
+E:\opencv\build\include\opencv2/core.hpp
+E:\opencv\build\include\opencv2/core/ovx.hpp
+E:\opencv\build\include\opencv2/calib3d.hpp
+E:\opencv\build\include\opencv2/features2d.hpp
+E:\opencv\build\include\opencv2/flann/miniflann.hpp
+E:\opencv\build\include\opencv2/flann/defines.h
+e:\opencv\build\include\opencv2\flann\config.h
+E:\opencv\build\include\opencv2/core/affine.hpp
+E:\opencv\build\include\opencv2/calib3d/calib3d_c.h
+E:\opencv\build\include\opencv2/flann.hpp
+E:\opencv\build\include\opencv2/flann/flann_base.hpp
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
+e:\opencv\build\include\opencv2\flann\general.h
+e:\opencv\build\include\opencv2\flann\matrix.h
+e:\opencv\build\include\opencv2\flann\params.h
+e:\opencv\build\include\opencv2\flann\any.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\map
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\tuple
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtree
+e:\opencv\build\include\opencv2\flann\saving.h
+e:\opencv\build\include\opencv2\flann\nn_index.h
+e:\opencv\build\include\opencv2\flann\result_set.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\set
+e:\opencv\build\include\opencv2\flann\all_indices.h
+e:\opencv\build\include\opencv2\flann\kdtree_index.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
+e:\opencv\build\include\opencv2\flann\dynamic_bitset.h
+e:\opencv\build\include\opencv2\flann\dist.h
+e:\opencv\build\include\opencv2\flann\heap.h
+e:\opencv\build\include\opencv2\flann\allocator.h
+e:\opencv\build\include\opencv2\flann\random.h
+e:\opencv\build\include\opencv2\flann\kdtree_single_index.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
+e:\opencv\build\include\opencv2\flann\kmeans_index.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
+e:\opencv\build\include\opencv2\flann\logger.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdarg.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+e:\opencv\build\include\opencv2\flann\composite_index.h
+e:\opencv\build\include\opencv2\flann\linear_index.h
+e:\opencv\build\include\opencv2\flann\hierarchical_clustering_index.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
+e:\opencv\build\include\opencv2\flann\lsh_index.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
+e:\opencv\build\include\opencv2\flann\lsh_table.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\iomanip
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocmon
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xloctime
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ctime
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+e:\opencv\build\include\opencv2\flann\autotuned_index.h
+e:\opencv\build\include\opencv2\flann\ground_truth.h
+e:\opencv\build\include\opencv2\flann\index_testing.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
+e:\opencv\build\include\opencv2\flann\timer.h
+e:\opencv\build\include\opencv2\flann\sampling.h
+E:\opencv\build\include\opencv2/highgui.hpp
+E:\opencv\build\include\opencv2/imgcodecs.hpp
+E:\opencv\build\include\opencv2/videoio.hpp
+E:\opencv\build\include\opencv2/highgui/highgui_c.h
+E:\opencv\build\include\opencv2/imgproc/imgproc_c.h
+E:\opencv\build\include\opencv2/imgproc/types_c.h
+E:\opencv\build\include\opencv2/imgcodecs/imgcodecs_c.h
+E:\opencv\build\include\opencv2/videoio/videoio_c.h
+E:\opencv\build\include\opencv2/imgproc.hpp
+E:\opencv\build\include\opencv2/ml.hpp
+E:\opencv\build\include\opencv2/objdetect.hpp
+E:\opencv\build\include\opencv2/objdetect/detection_based_tracker.hpp
+E:\opencv\build\include\opencv2/objdetect/objdetect_c.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\deque
+E:\opencv\build\include\opencv2/photo.hpp
+E:\opencv\build\include\opencv2/photo/photo_c.h
+E:\opencv\build\include\opencv2/shape.hpp
+E:\opencv\build\include\opencv2/shape/emdL1.hpp
+E:\opencv\build\include\opencv2/shape/shape_transformer.hpp
+E:\opencv\build\include\opencv2/shape/hist_cost.hpp
+E:\opencv\build\include\opencv2/shape/shape_distance.hpp
+E:\opencv\build\include\opencv2/stitching.hpp
+E:\opencv\build\include\opencv2/stitching/warpers.hpp
+E:\opencv\build\include\opencv2/stitching/detail/warpers.hpp
+E:\opencv\build\include\opencv2/core/cuda.hpp
+E:\opencv\build\include\opencv2/core/cuda_types.hpp
+E:\opencv\build\include\opencv2/core/cuda.inl.hpp
+E:\opencv\build\include\opencv2/core/cuda.hpp
+E:\opencv\build\include\opencv2/opencv_modules.hpp
+e:\opencv\build\include\opencv2\stitching\detail\warpers_inl.hpp
+e:\opencv\build\include\opencv2\stitching\detail\warpers.hpp
+E:\opencv\build\include\opencv2/stitching/detail/matchers.hpp
+E:\opencv\build\include\opencv2/opencv_modules.hpp
+E:\opencv\build\include\opencv2/stitching/detail/motion_estimators.hpp
+e:\opencv\build\include\opencv2\stitching\detail\util.hpp
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\list
+e:\opencv\build\include\opencv2\stitching\detail\util_inl.hpp
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\queue
+e:\opencv\build\include\opencv2\stitching\detail\util.hpp
+e:\opencv\build\include\opencv2\stitching\detail\camera.hpp
+E:\opencv\build\include\opencv2/stitching/detail/exposure_compensate.hpp
+E:\opencv\build\include\opencv2/stitching/detail/seam_finders.hpp
+E:\opencv\build\include\opencv2/opencv_modules.hpp
+E:\opencv\build\include\opencv2/stitching/detail/blenders.hpp
+E:\opencv\build\include\opencv2/superres.hpp
+E:\opencv\build\include\opencv2/superres/optical_flow.hpp
+E:\opencv\build\include\opencv2/video.hpp
+E:\opencv\build\include\opencv2/video/tracking.hpp
+E:\opencv\build\include\opencv2/video/background_segm.hpp
+E:\opencv\build\include\opencv2/video/tracking_c.h
+E:\opencv\build\include\opencv2/videostab.hpp
+E:\opencv\build\include\opencv2/videostab/stabilizer.hpp
+E:\opencv\build\include\opencv2/videostab/global_motion.hpp
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\fstream
+E:\opencv\build\include\opencv2/opencv_modules.hpp
+E:\opencv\build\include\opencv2/videostab/optical_flow.hpp
+E:\opencv\build\include\opencv2/opencv_modules.hpp
+E:\opencv\build\include\opencv2/videostab/motion_core.hpp
+E:\opencv\build\include\opencv2/videostab/outlier_rejection.hpp
+E:\opencv\build\include\opencv2/videostab/motion_stabilizing.hpp
+E:\opencv\build\include\opencv2/videostab/frame_source.hpp
+E:\opencv\build\include\opencv2/videostab/log.hpp
+E:\opencv\build\include\opencv2/videostab/inpainting.hpp
+E:\opencv\build\include\opencv2/videostab/fast_marching.hpp
+e:\opencv\build\include\opencv2\videostab\fast_marching_inl.hpp
+E:\opencv\build\include\opencv2/videostab/fast_marching.hpp
+E:\opencv\build\include\opencv2/videostab/deblurring.hpp
+E:\opencv\build\include\opencv2/videostab/wobble_suppression.hpp
+E:\opencv\build\include\opencv2/videostab/ring_buffer.hpp
+e:\school\dps915\a2\a2nochange\a2nochange\Color3d.h
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cassert
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
